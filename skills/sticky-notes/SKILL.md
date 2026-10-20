@@ -1,7 +1,7 @@
 ---
 name: sticky-notes
 description: This skill should be used when an employee wants to remember something, jot a note, save an action item, "note that", "remind me", "what did I write about X", "what's open on ticket Y", "give me everything I have on project Z", or build a context bundle for a task. It is personal local memory stored as Markdown under ~/.copilots/sticky-notes with no sync and no integrations.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Sticky Notes
